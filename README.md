@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm nguyen anh</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenanh2003&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenanh2003" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyenanh2003" alt="nguyenanh2003" /></a> </p>
 
 - ⚡ Fun fact **Nope**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.instagram.com/nguyenanh28_03/"></a></h3>
 <p align="left">
+<a href="https://instagram.com/https://www.instagram.com/nguyenanh28_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nguyenanh28_03/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
