@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm nguyen anh</h1>
-<h3 align="center">none description</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenanh2003&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenanh2003" /> </p>
 
